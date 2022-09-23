@@ -1,6 +1,6 @@
 {
 
-"spider": "https://homeyjj.github.io/wuliao/jar/0917.jar",
+"spider": "https://homeyjj.github.io/wuliao/jar/0909.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
