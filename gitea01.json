@@ -1,6 +1,6 @@
 {
 
-"spider": "https://github.com/homeyjj/wuliao/blob/main/jar/0909.jar",
+"spider": "https://github.com/homeyjj/wuliao/blob/main/jar/0917.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
@@ -55,12 +55,8 @@
 {"key":"csp_appysv2_美剧范","name":"美剧范(YsV2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"csp_appysv2_爱酷影视","name":"爱酷影视(YsV2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appysv2_暖光影视","name":"暖光影视(YsV2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"csp_appysv2_刺猬影视","name":"刺猬影视(YsV2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
+{"key":"csp_appysv2_刺猬影视","name":"刺猬影视(YsV2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"}
 
-{"key":"csp_xpath_球迷","name":"🏀球迷(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/球迷(XPF).json"},
-{"key":"csp_xpath_酷奇MV","name":"🎸酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/酷奇MV(XP).json"},
-{"key":"csp_xpath_虎牙直播","name":"🐅虎牙直播(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/虎牙直播(XP).json"},
-{"key":"csp_biubiu_斗鱼直播","name":"🐟斗鱼直播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXB/斗鱼直播(XB).json"}
 ],
 
 "parses": [
