@@ -6,8 +6,6 @@
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
 ]}]}],
 
-📺base64(https://gitea.com/breadmyth/tv/raw/branch/main/live/huya.txt) = aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0
-https://dxawi.github.io/0/0.json
 "drives": [{"server":"http://192.168.7.1:22222/dav","userName":"bread","password":"2","type":"webdav"}],
 
 "sites": [
