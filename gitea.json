@@ -6,9 +6,9 @@
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
 ]}]}],
 
-// 📺base64(https://gitea.com/breadmyth/tv/raw/branch/main/live/huya.txt) = aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0
-// https://dxawi.github.io/0/0.json
-//"drives": [{"server":"http://192.168.7.1:22222/dav","userName":"bread","password":"2","type":"webdav"}],
+📺base64(https://gitea.com/breadmyth/tv/raw/branch/main/live/huya.txt) = aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0
+https://dxawi.github.io/0/0.json
+"drives": [{"server":"http://192.168.7.1:22222/dav","userName":"bread","password":"2","type":"webdav"}],
 
 "sites": [
 
@@ -47,12 +47,12 @@
 "综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 
 
-//{"key": "csp_Alist_collect","name":"👫Alist合集(SP)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"🔮嗨翻$https://pan.hikerfans.com#🦀9T$https://drive.9t.ee#🐱梓澪の妙妙屋$https://xn--i0v44m.xyz#🚆资源小站$https://pan.142856.xyz#🌤晴园的宝藏库$https://alist.52qy.repl.co#🐭米奇妙妙屋$https://anime.mqmmw.ga#💂小兵组网盘影视$https://6vv.app#📀小光盘$https://alist.xiaoguanxiaocheng.life#🐋一只鱼$https://alist.youte.ml#🌊七米蓝$https://al.chirmyram.com#🌴非盘$http://www.feifwp.top#🤠帅盘$https://hi.shuaipeng.wang#🐉神族九帝$https://alist.shenzjd.com#☃姬路白雪の资源小站$https://pan.jlbx.xyz#🎧听闻网盘$https://wangpan.sangxuesheng.com#🌺菊花盘$https://pan.142856.xyz"},
-//{"key": "csp_Alist1","name":"🍞bread Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://breadmyth.asuscomm.com:22222"},
-//{"key": "VIP1","name":"一(T4)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "VIP3","name":"二(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "VIP4","name":"三(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "VIP6","name":"四(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11fx64","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_Alist_collect","name":"👫Alist合集(SP)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"🔮嗨翻$https://pan.hikerfans.com#🦀9T$https://drive.9t.ee#🐱梓澪の妙妙屋$https://xn--i0v44m.xyz#🚆资源小站$https://pan.142856.xyz#🌤晴园的宝藏库$https://alist.52qy.repl.co#🐭米奇妙妙屋$https://anime.mqmmw.ga#💂小兵组网盘影视$https://6vv.app#📀小光盘$https://alist.xiaoguanxiaocheng.life#🐋一只鱼$https://alist.youte.ml#🌊七米蓝$https://al.chirmyram.com#🌴非盘$http://www.feifwp.top#🤠帅盘$https://hi.shuaipeng.wang#🐉神族九帝$https://alist.shenzjd.com#☃姬路白雪の资源小站$https://pan.jlbx.xyz#🎧听闻网盘$https://wangpan.sangxuesheng.com#🌺菊花盘$https://pan.142856.xyz"},
+{"key": "csp_Alist1","name":"🍞bread Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://breadmyth.asuscomm.com:22222"},
+{"key": "VIP1","name":"一(T4)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "VIP3","name":"二(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "VIP4","name":"三(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "VIP6","name":"四(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11fx64","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_appysv2_美剧范","name":"美剧范(YsV2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"csp_appysv2_爱酷影视","name":"爱酷影视(YsV2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
