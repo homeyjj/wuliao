@@ -4,7 +4,7 @@
 			"key": "t4public",
 			"name": "T4公共",
 			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&ali_token=3eace197d0514fc4b4154b9900180b18token&timeout=10",
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=0bc71f5ddb354a3ba88447bc838a2b7b&timeout=10",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
@@ -15,7 +15,7 @@
 			"key": "T4",
 			"name": "T4爬虫",
 			"type": 4,
-			"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3eace197d0514fc4b4154b9900180b18token&timeout=10",
+			"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=0bc71f5ddb354a3ba88447bc838a2b7b&timeout=10",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
