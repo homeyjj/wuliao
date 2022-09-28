@@ -232,7 +232,7 @@
 			"key": "t4_公共",
 			"name": "📡公共(T4)",
 			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=0bc71f5ddb354a3ba88447bc838a2b7b&timeout=10",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
@@ -250,7 +250,7 @@
 			"key": "t4_合集",
 			"name": "📡合集(T4)",
 			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=0bc71f5ddb354a3ba88447bc838a2b7b&timeout=10",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
@@ -259,7 +259,7 @@
 			"key": "t4_聚合",
 			"name": "📡聚合(T4)",
 			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=0bc71f5ddb354a3ba88447bc838a2b7b&timeout=5",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -273,7 +273,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
 		},
 		{
 			"key": "csp_AliPS",
@@ -283,7 +283,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
 		},
 		{
 			"key": "csp_FindZY",
@@ -293,7 +293,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
 		},
 		{
 			"key": "csp_Yiso",
@@ -303,7 +303,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
 		},
 		{
 			"key": "csp_alist",
