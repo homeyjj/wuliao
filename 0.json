@@ -111,15 +111,15 @@
             "filterable": 1
         },
         {
-			"key": "csp_xbb_555电影",
-			"name": "🍀555影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"
-		},
+	    "key": "csp_xbb_555电影",
+	    "name": "🍀555影视",
+	    "type": 3,
+	    "api": "csp_XBiubiu",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"
+	},
         {
             "key": "555",
             "name": "555(爬虫)",
@@ -146,7 +146,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
         },
         {
             "key": "zhaozy",
@@ -156,7 +156,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
         },
         {
             "key": "AliPS",
@@ -166,7 +166,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
         },
         {
             "key": "Yiso",
@@ -176,7 +176,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
         },
         {
             "key": "csp_xpath_dm84",
@@ -342,8 +342,8 @@
             "name": "知识学堂(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx1.json"
         },
@@ -352,8 +352,8 @@
             "name": "儿童(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx2.json"
         },
@@ -362,8 +362,8 @@
             "name": "小学(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx3.json"
         },
@@ -372,8 +372,8 @@
             "name": "初中(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx4.json"
         },
@@ -382,8 +382,8 @@
             "name": "高中(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/xx5.json"
         },
@@ -395,7 +395,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "14ab7929c5724ffd9c3431d8fa19d421"
+            "ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
         }
     ],
        "lives":[
