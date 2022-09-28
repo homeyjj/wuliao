@@ -1,5 +1,4 @@
 
-
 {
     "sites": [ 
         {
@@ -148,6 +147,16 @@
             "filterable": 1,
             "ext": "0bc71f5ddb354a3ba88447bc838a2b7b"
         },
+	{   
+	    "key": "Upyunso",
+            "name": "UP云搜",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"0bc71f5ddb354a3ba88447bc838a2b7b"
+	},    
         {
             "key": "zhaozy",
             "name": "找资源(仅搜索)",
