@@ -17,8 +17,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }，
-         {
+        },
+        {
             "key": "csp_QQ",
             "name": "企鹅（SP）",
             "type": 3,
@@ -207,8 +207,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
-       
-      
+        {
+	    "key": "csp_xbb_555电影",
+	    "name": "🍀555影视",
+	    "type": 3,
+	    "api": "csp_XBiubiu",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 0,
+	    "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"
+	    },
         {
             "key": "Gitcafe",
             "name": "小纸条(爬虫)",
