@@ -18,6 +18,69 @@
             "quickSearch": 1,
             "filterable": 1
         }，
+         {
+            "key": "csp_QQ",
+            "name": "企鹅（SP）",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+          {
+            "key": "csp_MGTV",
+            "name": "芒果（SP）",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_IQIYI",
+            "name": "奇艺（SP）",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "APPTT",
+            "name": "图图（SP）",
+            "api": "csp_AppTT",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+         {
+            "key": "低端",
+            "name": "低端(SP)",
+            "api": "csp_Ddrk",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
+            "key": "zxzj",
+            "name": "在线(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "神马影院",
+            "name": "神马(SP)",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "Coke",
             "name": "Cokemv(爬虫)",
@@ -144,24 +207,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "日漫",
-            "name": "日漫(爬虫)",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "360",
-            "name": "360(不好用)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
+      
         {
             "key": "Gitcafe",
             "name": "小纸条(爬虫)",
@@ -201,97 +248,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XP)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/libvp.json"
-        },
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/zxzjp.json"
-        },
-        {
-            "key": "csp_xpath_dm84",
-            "name": "动漫巴士(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/dm84.json"
-        }, 
-        {
-            "key": "饭团影视",
-            "name": "饭团影视(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/ftys.json"
-        },
-        {
-            "key": "abyy",
-            "name": "AB影院(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/abyy.json"
-        },
-        {
-            "key": "蓝光影院",
-            "name": "蓝光(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/lgyy.json"
-        },
-        {
-            "key": "ysgc",
-            "name": "影视工厂(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/ysgc.json"
-        },
-        {
-            "key": "瓜皮",
-            "name": "瓜皮(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/gptv.json"
-        },
-        {
-            "key": "口袋影院",
-            "name": "口袋(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/kdyy.json"
-        },
+        },             
         {
             "key": "多多",
             "name": "多多资源",
@@ -301,46 +258,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]
-        },
-        {
-            "key": "csp_xpath_wanmeikk",
-            "name": "完美看看(XP)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitcode.net/kuukey/b/-/raw/master/6/wmkkp.json"
-        },
-        {
-            "key":"csp_xpath_lezhutv",
-            "name": "乐猪TV(XP)",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lztv.json"
-        },
-        {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/cokep.json"
-        },
-        {
-            "key": "蓝光影院XPF",
-            "name": "蓝光影院(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitcode.net/kuukey/b/-/raw/master/6/lgyyp.json"
         }, 
         {   
             "key": "在线直播",
