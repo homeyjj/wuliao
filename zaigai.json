@@ -19,16 +19,6 @@
 			"ext": "https://homeyjj.github.io/wuliao/xb/YYDS影院.json"
 		},
 		{
-			"key": "csp_xbb_YYDS影院",
-			"name": "🍀YYDS影院",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/YYDS影院.json"
-		},  
-		{
 			"key": "csp_xbb_影视工厂",
 			"name": "🍀影视工厂",
 			"type": 3,
