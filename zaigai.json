@@ -1,5 +1,18 @@
 {
-	"sites": [{
+	"sites": [
+		 {
+	                "key": "csp_SP360",
+	                "name": "💫360影视",
+	                "api": "csp_SP360",
+	                "type": 3,
+	                "filterable": 1,
+	                "quickSearch": 1,
+	                "searchable": 1,
+	                "ext": ""
+	},
+		
+		
+		{
 			"key": "77",
 			"name": "77(爬虫)",
 			"type": 3,
