@@ -26,7 +26,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://homeyjj.github.io/wuliao/xb/YYDS影院.json"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/xb/YYDS影院.json"
 		},
 		{
 			"key": "csp_xbb_影视工厂",
@@ -36,7 +36,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://homeyjj.github.io/wuliao/xb/影视工厂.json"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/xb/影视工厂.json"
 		},
 		{
 			"key": "t4_公共",
@@ -199,7 +199,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/555电影.json"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/xb/555电影.json"
 		},
 		{
 			"key": "Gitcafe",
@@ -559,5 +559,5 @@
 		"cms.qdwght.com"
 	],
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	"spider": "https://github.com/homeyjj/wuliao/blob/main/jar/gg0925.jar"
+	"spider": "https://raw.iqiq.io/homeyjj/wuliao/main/jar/gg0925.jar"
 }
