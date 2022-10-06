@@ -1,6 +1,6 @@
 {
 	"spider": "http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd",
-	//"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0828.jar",
+	"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0828.jar",
 
 
 	//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
@@ -14,21 +14,22 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]
 		}]
 	}],
-	"sites": [{
-			"key": "Upyunso",
-			"name": "UP云搜",
-			"type": 3,
-			"api": "csp_Upyunso",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "7969124e7a4e4ccfb994db1a0e580be4"
-		},
+	"sites": [
 		{
 			"key": "Gitcafe",
 			"name": "📜小纸条〔SP〕",
 			"type": 3,
 			"api": "csp_Gitcafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "7969124e7a4e4ccfb994db1a0e580be4"
+		},
+		{
+			"key": "Upyunso",
+			"name": "UP云搜",
+			"type": 3,
+			"api": "csp_Upyunso",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -65,6 +66,15 @@
 			"ext": "7969124e7a4e4ccfb994db1a0e580be4"
 		},
 		{
+			"key": "t4public",
+			"name": "T4公共",
+			"type": 4,
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=7969124e7a4e4ccfb994db1a0e580be4&timeout=10",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+		},
+		{
 			"key": "push_agent",
 			"name": "🍭推送〔阿里推送/磁力推送〕",
 			"type": 3,
@@ -73,15 +83,6 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "7969124e7a4e4ccfb994db1a0e580be4"
-		},
-		{
-			"key": "alist",
-			"name": "----暂不支持takagen版本----",
-			"type": 3,
-			"api": "360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "csp_Alist1",
@@ -93,15 +94,8 @@
 			"filterable": 0,
 			"ext": "米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com",
 			"jar": "https://pan.szfx.top/down.php/285d80f6e19e2613ea305083f84bd95a.jar"
-		},
-		{
-			"key": "t4public",
-			"name": "T4公共",
-			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
+		
+		
 		}
 	],
 	"parses": [{
