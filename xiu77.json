@@ -183,15 +183,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "555",
-			"name": "555(爬虫)",
-			"type": 3,
-			"api": "csp_Dy555",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_xbb_555电影",
 			"name": "🍀555影视",
@@ -222,6 +214,16 @@
 			"filterable": 1,
 			"ext": "81461f2e9d0b4ffb86612db403824b8a"
 		},
+		{
+			"key": "Upyunso",
+			"name": "Upyunso(仅搜索)",
+			"type": 3,
+			"api": "csp_Upyunso",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "81461f2e9d0b4ffb86612db403824b8a"
+		}, 
 		{
 			"key": "AliPS",
 			"name": "盘搜(仅搜索)",
