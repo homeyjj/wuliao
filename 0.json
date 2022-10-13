@@ -8,6 +8,16 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
+		 {
+                         "key": "csp_XBiu_REPEN",
+                         "name": "❤️RENPE┃R",
+                         "type": 3,
+                         "api": "csp_XBiu",
+                         "searchable": 1,
+                         "quickSearch": 1,
+                         "filterable": 1,
+                         "ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
+                },
 		{
 			"key": "Lezhu",
 			"name": "乐猪(爬虫)",
