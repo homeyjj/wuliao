@@ -1,5 +1,5 @@
 {
-	"spider": "https://homeyjj.github.io/wuliao/lib/js.jar",
+	"spider": "https://homeyjj.github.io/wuliao/lib/js.jar;md5;e4f20b2ba218a44b89b9893bbbfe5848",
 	"sites": [{
 			"key": "drpy_js_360影视",
 			"name": "360影视[DRPY]",
