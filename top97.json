@@ -1,5 +1,5 @@
 {
-  "spider": "https://./jar/top97.jar",
+  "spider": "./jar/top97.jar",
   "lives": [
     {
       "group": "redirect",
