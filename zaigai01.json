@@ -42,7 +42,7 @@
 			"key": "t4_公共",
 			"name": "📡公共(T4)",
 			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&ali_token=https://raw.iqiq.io/homeyjj/wuliao/main/token.json&timeout=10",
+			"api": "https://t4.secan.icu/vod?sites=all&ali_token=26496fd573ac45d5b3b3f77799fc126f&timeout=10",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
@@ -209,7 +209,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
+			"ext": "26496fd573ac45d5b3b3f77799fc126f"
 		},{
                         "key": "Upyunso",
                         "name": "Upyunso(仅搜索)",
@@ -218,7 +218,7 @@
                         "searchable": 1,
                         "quickSearch": 1,
                         "filterable": 0,
-                       "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
+                       "ext": "26496fd573ac45d5b3b3f77799fc126f"
                },{
 			"key": "zhaozy",
 			"name": "找资源(仅搜索)",
@@ -227,7 +227,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
+			"ext": "26496fd573ac45d5b3b3f77799fc126f"
 		},
 		{
 			"key": "AliPS",
@@ -237,7 +237,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
+			"ext": "26496fd573ac45d5b3b3f77799fc126f"
 		},
 		{
 			"key": "Yiso",
@@ -247,7 +247,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
+			"ext": "26496fd573ac45d5b3b3f77799fc126f"
 		},
 		{
 			"key": "多多",
@@ -267,7 +267,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
+			"ext": "26496fd573ac45d5b3b3f77799fc126f"
 		}
 	],
 	"lives": [{
