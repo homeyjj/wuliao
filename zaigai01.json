@@ -210,8 +210,16 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
-		},
-		{
+		},{
+                        "key": "Upyunso",
+                        "name": "Upyunso(仅搜索)",
+                        "type": 3,
+                        "api": "csp_Upyunso",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 0,
+                       "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.json"
+               },{
 			"key": "zhaozy",
 			"name": "找资源(仅搜索)",
 			"type": 3,
