@@ -209,7 +209,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
 		},{
                         "key": "Upyunso",
                         "name": "Upyunso(仅搜索)",
@@ -218,7 +218,7 @@
                         "searchable": 1,
                         "quickSearch": 1,
                         "filterable": 0,
-                       "ext": "26496fd573ac45d5b3b3f77799fc126f"
+                       "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
                },{
 			"key": "zhaozy",
 			"name": "找资源(仅搜索)",
@@ -227,7 +227,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
 		},
 		{
 			"key": "AliPS",
@@ -237,7 +237,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
 		},
 		{
 			"key": "Yiso",
@@ -247,7 +247,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
 		},
 		{
 			"key": "多多",
