@@ -38,15 +38,7 @@
 			"filterable": 0,
 			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/xb/影视工厂.json"
 		},
-		{
-			"key": "t4_公共",
-			"name": "📡公共(T4)",
-			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&ali_token=26496fd573ac45d5b3b3f77799fc126f&timeout=10",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
+		
 		{
 			"key": "低端",
 			"name": "低端(SP)",
@@ -56,15 +48,7 @@
 			"quickSearch": 1,
 			"searchable": 1
 		},
-		{
-			"key": "神马影院",
-			"name": "神马(SP)",
-			"type": 3,
-			"api": "csp_Smdyy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "Coke",
 			"name": "Cokemv(爬虫)",
@@ -110,15 +94,7 @@
 			"quickSearch": 1,
 			"searchable": 1
 		},
-		{
-			"key": "神马影院",
-			"name": "神马(爬虫)",
-			"type": 3,
-			"api": "csp_Smdyy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "剧荒",
 			"name": "剧荒(爬虫)",
@@ -182,15 +158,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "555",
-			"name": "555(爬虫)",
-			"type": 3,
-			"api": "csp_Dy555",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_xbb_555电影",
 			"name": "🍀555影视",
@@ -229,32 +197,32 @@
                         "api":"csp_FindZY",
                         "playerType":1,
                         "searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"3779824041f446739219805f08431947"
-},
-{
-"key":"AliPS",
-"name":"📀盘搜(仅搜索)",
-"type":3,
-"api":"csp_AliPS",
-"playerType":1,
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"3779824041f446739219805f08431947"
-},
-{
-"key":"csp_Yiso",
-"name":"🎯易搜",
-"type":3,
-"api":"csp_Yiso",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"3779824041f446739219805f08431947",
-"jar":"https://raw.iqiq.io/leevi0709/duo/main/json/yisozc.jar;md5;8d29a86d985a54225af22a82bb9328ee"
-},
+                       "quickSearch":1,
+                      "filterable":1,
+                      "ext":"3779824041f446739219805f08431947"
+               },
+                 {
+                      "key":"AliPS",
+                      "name":"📀盘搜(仅搜索)",
+                        "type":3,
+                     "api":"csp_AliPS",
+                    "playerType":1,
+                        "searchable":1,
+                   "quickSearch":1,
+                  "filterable":1,
+                   "ext":"3779824041f446739219805f08431947"
+              },
+                 {
+                  "key":"csp_Yiso",
+                  "name":"🎯易搜",
+                   "type":3,
+                   "api":"csp_Yiso",
+                      "searchable":1,
+                       "quickSearch":1,
+                     "filterable":0,
+                    "ext":"3779824041f446739219805f08431947",
+                    "jar":"https://raw.iqiq.io/leevi0709/duo/main/json/yisozc.jar;md5;8d29a86d985a54225af22a82bb9328ee"
+                    },
 
 		{
 			"key": "多多",
