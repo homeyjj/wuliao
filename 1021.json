@@ -203,15 +203,7 @@
 			"filterable": 0,
 			"ext": "米奇妙妙屋$https://anime.mqmmw.ga#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"
 		},
-		{
-			"key": "douban",
-			"name": "🔍豆瓣荐片(T4)",
-			"type": 4,
-			"api": "https://t4.secan.icu/vod?sites=all&timeout=7",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "T4_douban",
 			"name": "🔍影视推荐(T4)",
