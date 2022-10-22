@@ -200,16 +200,17 @@
 			"filterable": 1
 		 },
 		 {
-                       "key": "Gitcafe",
-                       "name": "小纸条(新)",
-                       "type": 3,
-                       "api": "csp_Gitcafe",
-                       "searchable": 1,
-                       "playerType": 1,
-                       "quickSearch": 1,
-                       "filterable": 1,
-                       "ext": "3779824041f446739219805f08431947"
-                }, 
+			"key": "Gitcafe",
+			"name": "小纸条(爬虫)",
+			"type": 3,
+			"api": "csp_Gitcafe",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "3779824041f446739219805f08431947"
+
+
+		},
 		{
 			"key": "AliPS",
 			"name": "😻盘搜",
