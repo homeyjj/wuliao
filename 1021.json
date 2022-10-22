@@ -207,10 +207,18 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3779824041f446739219805f08431947"
-
-
+			//"ext": "3779824041f446739219805f08431947"
 		},
+		 {
+                      "key": "AliPS",
+                      "name": "AliPS",
+                      "type": 3,
+                      "api": "csp_AliPS",
+                      "searchable": 1,
+                      "playerType": 1,
+                      "quickSearch": 1,
+                      "filterable": 1
+                 },
 		{
 			"key": "AliPS",
 			"name": "😻盘搜",
@@ -220,7 +228,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3779824041f446739219805f08431947"
+			//"ext": "3779824041f446739219805f08431947"
 		},
 		
 		{
@@ -232,7 +240,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3779824041f446739219805f08431947"
+			//"ext": "3779824041f446739219805f08431947"
 		},
 		{
 			"key": "csp_Yiso",
@@ -243,7 +251,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3779824041f446739219805f08431947"
+			//"ext": "3779824041f446739219805f08431947"
 		},
 		{
 			"key": "csp_Upyunso",
@@ -254,7 +262,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3779824041f446739219805f08431947"
+			//"ext": "3779824041f446739219805f08431947"
 		},
 		{
 			"key": "push_agent",
