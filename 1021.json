@@ -208,7 +208,7 @@
                        "playerType": 1,
                        "quickSearch": 1,
                        "filterable": 1,
-                       "ext": "26496fd573ac45d5b3b3f77799fc126f"
+                       "ext": "https://homeyjj.github.io/wuliao/token.json"
                 }, 
 		{
 			"key": "AliPS",
@@ -219,7 +219,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://homeyjj.github.io/wuliao/token.json"
 		},
 		
 		{
@@ -231,7 +231,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://homeyjj.github.io/wuliao/token.json"
 		},
 		{
 			"key": "csp_Yiso",
@@ -242,7 +242,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://homeyjj.github.io/wuliao/token.json"
 		},
 		{
 			"key": "csp_Upyunso",
@@ -253,7 +253,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://homeyjj.github.io/wuliao/token.json"
 		},
 		{
 			"key": "push_agent",
@@ -264,7 +264,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "26496fd573ac45d5b3b3f77799fc126f"
+			"ext": "https://homeyjj.github.io/wuliao/token.json"
 		}
 
   
