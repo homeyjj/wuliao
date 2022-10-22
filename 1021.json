@@ -47,15 +47,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_Dy555dy",
-			"name": "5️⃣555影视〔SP〕",
-			"type": 3,
-			"api": "csp_Dy555",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "在线之家",
 			"name": "🐞在线之家",
@@ -138,16 +130,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_Nmys",
-			"name": "🥝农民",
-			"type": 3,
-			"api": "csp_Nmys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
-		},
+		
 		{
 			"key": "csp_Yj1211",
 			"name": "📽️在线直播",
@@ -281,58 +264,9 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt"
-		},
-
-  //#18
-		{
-			"key": "drpy_js_18av",
-			"name": " 😚18av [DRPY]",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-			"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/18av.js "
-		},
-		{
-			"key": "drpy_js_Missav",
-			"name": " 😚Missav [DRPY]",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-			"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/Missav.js "
-		},
-		{
-			"key": "drpy_js_banan",
-			"name": " 😚banan [DRPY]",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-			"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/banan.js "
-		},
-		{
-			"key": "drpy_js_养端",
-			"name": " 😚养端 [DRPY]",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-			"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/养端.js "
-		},
-		{
-			"key": "drpy_js_吸瓜",
-			"name": " 😚吸瓜 [DRPY]",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-			"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/吸瓜.js "
-		},
-		{
-			"key": "drpy_js_朱古力",
-			"name": " 😚朱古力 [DRPY]",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-			"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/朱古力.js "
-		},
-		{
-			"key": "drpy_js_玩偶姐姐",
-			"name": " 😚玩偶姐姐 [DRPY]",
-			"type": 3,
-			"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
-			"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/玩偶姐姐.js "
 		}
+
+  
 	],
   //解析
 	"parses": [{
