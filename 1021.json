@@ -208,7 +208,7 @@
                        "playerType": 1,
                        "quickSearch": 1,
                        "filterable": 1,
-                       "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+                       "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
                 }, 
 		{
 			"key": "AliPS",
@@ -219,7 +219,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		
 		{
@@ -231,7 +231,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		{
 			"key": "csp_Yiso",
@@ -242,7 +242,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		{
 			"key": "csp_Upyunso",
@@ -253,7 +253,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		{
 			"key": "push_agent",
@@ -264,7 +264,7 @@
 			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		}
 
   
