@@ -304,7 +304,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/homeyjj/0/raw/branch/main/token.txt;asc"
+      "ext": "http://刚刚.live/json/i.json;asc"
     },
     {
       "key": "找资源",
@@ -355,7 +355,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/homeyjj/0/raw/branch/main/token.txt;desc"
+      "ext": "http://刚刚.live/json/i.json;desc"
     }
   ],
   "parses": [
