@@ -202,7 +202,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		{
 			"key": "zhaozy",
@@ -212,7 +212,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		{
 			"key": "Upyunso",
@@ -222,7 +222,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		}, 
 		{
 			"key": "AliPS",
@@ -232,7 +232,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		{
 			"key": "Yiso",
@@ -242,7 +242,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		},
 		{
 			"key": "多多",
@@ -262,7 +262,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/alitoken.txt"
+			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
 		}
 	],
 	"lives": [{
