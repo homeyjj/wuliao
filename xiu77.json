@@ -205,11 +205,12 @@
 			"ext": "f6fcd2d1c0e54601805413721d89e0ca"
 		},
 		{
-			"key": "zhaozy",
-			"name": "找资源(仅搜索)",
+			"key": "FindZY",
+			"name": "🦊找资源",
 			"type": 3,
-			"api": "csp_FindZY",
+			"api": "csp_Zhaozy",
 			"searchable": 1,
+			"playerType": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "f6fcd2d1c0e54601805413721d89e0ca"
