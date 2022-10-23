@@ -304,7 +304,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://刚刚.live/json/i.json;asc"
+      "ext": "fd2b5e7f91154dfdbe684bf173aeb6e5;asc"
     },
     {
       "key": "找资源",
@@ -355,7 +355,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "http://刚刚.live/json/i.json;desc"
+      "ext": "fd2b5e7f91154dfdbe684bf173aeb6e5;desc"
     }
   ],
   "parses": [
