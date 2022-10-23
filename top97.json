@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitea.com/homeyjj/0/raw/branch/main/jar/top97_1.jar;md5;be69d0c9e96e8637ba98436236c82bf6",
+  "spider": "./jar/top97_1.jar",
   "lives": [
     {
       "group": "redirect",
@@ -79,8 +79,28 @@
       "filterable": 1
     },
     {
+      "key": "csp_xb_lez",
+      "name": "乐猪(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://home.jundie.top:666/json/XBiu/lezhu.json"
+    },
+    {
+      "key": "csp_xb_zxzj",
+      "name": "在线之家(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://home.jundie.top:666/json/XBiu/zxzj.json"
+    },
+    {
       "key": "csp_xb_auete",
-      "name": "AUETE(R)",
+      "name": "AUETE(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -90,7 +110,7 @@
     },
     {
       "key": "csp_xb_lib",
-      "name": "LIB(R)",
+      "name": "LIB(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -99,18 +119,8 @@
       "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
     },
     {
-      "key": "csp_xb_dmxq",
-      "name": "大米星球(R)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.dmxq.fun/vodshow/{cateId}--------{catePg}---.html"
-    },
-    {
       "key": "csp_xb_lgyy",
-      "name": "蓝光影院(R)",
+      "name": "蓝光影院(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -120,7 +130,7 @@
     },
     {
       "key": "csp_xb_jpys",
-      "name": "极品影视(R)",
+      "name": "极品影视(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -130,7 +140,7 @@
     },
     {
       "key": "csp_xb_zbk",
-      "name": "真不卡(R)",
+      "name": "真不卡(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -139,18 +149,8 @@
       "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
     },
     {
-      "key": "csp_xb_lez2",
-      "name": "乐猪(R)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://www.lezhutv.com/type/{cateId}-{datePg}.html"
-    },
-    {
       "key": "csp_xb_5G",
-      "name": "5G(R)",
+      "name": "5G(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -160,7 +160,7 @@
     },
     {
       "key": "csp_xb_9sha",
-      "name": "9杀(R)",
+      "name": "9杀(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -170,7 +170,7 @@
     },
     {
       "key": "csp_xb_webdillo",
-      "name": "宝仙HD(R)",
+      "name": "宝仙HD(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -180,7 +180,7 @@
     },
     {
       "key": "csp_xb_ysgc",
-      "name": "影视工厂(R)",
+      "name": "影视工厂(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -190,7 +190,7 @@
     },
     {
       "key": "csp_xb_cokemv",
-      "name": "cokemv(R)",
+      "name": "cokemv(XBiu)",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -303,7 +303,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "token;asc"
     },
     {
       "key": "找资源",
@@ -354,24 +355,19 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "http://home.jundie.top:81/jar/token.txt"
+      "ext": "token;desc"
     }
   ],
   "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
     {
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
     },
     {
       "name": "xmflv",
