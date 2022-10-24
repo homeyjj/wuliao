@@ -1,4 +1,8 @@
 {
+	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+	"spider": "https://gitea.com/homeyjj/0/raw/branch/main/jar/top97.jar;md5;4a4420350be90a44734b505c1ccd49da",
+	
+	
 	"sites": [{
 			"key": "csp_SP360",
 			"name": "💫360影视",
@@ -561,7 +565,6 @@
 		"qiu.xixiqiu.com",
 		"cdnjs.hnfenxun.com",
 		"cms.qdwght.com"
-	],
-	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	"spider": "https://gitea.com/homeyjj/0/raw/branch/main/jar/top97.jar;md5;4a4420350be90a44734b505c1ccd49da"
+	]
+	
 }
