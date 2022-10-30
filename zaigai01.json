@@ -181,7 +181,7 @@
                         "searchable":1,
                         "quickSearch":1,
                         "filterable":1,
-                        "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+                        "ext":"fd2b5e7f91154dfdbe684bf173aeb6e5"
                },
                {
                          "key":"Upyunso",
@@ -191,7 +191,7 @@
                          "searchable":1,
                          "quickSearch":1,
                          "filterable":1,
-                         "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+                         "ext":"fd2b5e7f91154dfdbe684bf173aeb6e5"
                  },
                  {
                          "key":"zhaozy",
@@ -202,7 +202,7 @@
                          "searchable":1,
                          "quickSearch":1,
                          "filterable":1,
-                         "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+                         "ext":"fd2b5e7f91154dfdbe684bf173aeb6e5"
                },
                {
                       "key":"AliPS",
@@ -213,7 +213,7 @@
                       "searchable":1,
                       "quickSearch":1,
                       "filterable":1,
-                      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+                      "ext":"fd2b5e7f91154dfdbe684bf173aeb6e5"
               },
               {
                       "key":"csp_Yisou",
@@ -223,7 +223,7 @@
                       "searchable":1,
                       "quickSearch":1,
                       "filterable":0,
-                      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+                      "ext":"fd2b5e7f91154dfdbe684bf173aeb6e5"
                       
                 },
 
@@ -245,7 +245,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+			"ext": "fd2b5e7f91154dfdbe684bf173aeb6e5"
 		}
 	],
 	"lives": [{
