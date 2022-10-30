@@ -155,7 +155,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
             "key": "zhaozy",
@@ -165,7 +165,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
             "key": "Upyunso",
@@ -175,7 +175,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
             "key": "Yisou",
@@ -185,7 +185,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         },
         {
             "key": "Bili",
@@ -256,7 +256,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
         }
     ],
        "lives":[
