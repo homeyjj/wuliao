@@ -181,7 +181,7 @@
                         "searchable":1,
                         "quickSearch":1,
                         "filterable":1,
-                        "ext":"https://homeyjj.github.io/wuliao/ali.txt"
+                        "ext":"https://homeyjj.github.io/wuliao/token.txt"
                },
                {
                          "key":"Upyunso",
@@ -191,7 +191,7 @@
                          "searchable":1,
                          "quickSearch":1,
                          "filterable":1,
-                         "ext":"https://homeyjj.github.io/wuliao/ali.txt"
+                         "ext":"https://homeyjj.github.io/wuliao/token.txt"
                  },
                  {
                          "key":"zhaozy",
@@ -202,7 +202,7 @@
                          "searchable":1,
                          "quickSearch":1,
                          "filterable":1,
-                         "ext":"https://homeyjj.github.io/wuliao/ali.txt"
+                         "ext":"https://homeyjj.github.io/wuliao/token.txt"
                },
                {
                       "key":"AliPS",
@@ -213,7 +213,7 @@
                       "searchable":1,
                       "quickSearch":1,
                       "filterable":1,
-                      "ext":"https://homeyjj.github.io/wuliao/ali.txt"
+                      "ext":"https://homeyjj.github.io/wuliao/token.txt"
               },
               {
                       "key":"csp_Yisou",
@@ -223,7 +223,7 @@
                       "searchable":1,
                       "quickSearch":1,
                       "filterable":0,
-                      "ext":"https://homeyjj.github.io/wuliao/ali.txt"
+                      "ext":"https://homeyjj.github.io/wuliao/token.txt"
                       
                 },
 
@@ -245,7 +245,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://homeyjj.github.io/wuliao/ali.txt"
+			"ext": "https://homeyjj.github.io/wuliao/token.txt"
 		}
 	],
 	"lives": [{
