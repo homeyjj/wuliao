@@ -12,15 +12,7 @@
 			"searchable": 1,
 			"ext": ""
 		},
-		{
-			"key": "77",
-			"name": "77(爬虫)",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_xbb_YYDS影院",
 			"name": "🍀YYDS影院",
@@ -42,125 +34,7 @@
 			"ext": "https://raw.iqiq.io/homeyjj/wuliao/main/xb/影视工厂.json"
 		},
 		
-		{
-			"key": "低端",
-			"name": "低端(SP)",
-			"api": "csp_Ddrk",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
 		
-		{
-			"key": "Coke",
-			"name": "Cokemv(爬虫)",
-			"type": 3,
-			"api": "csp_Cokemv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Lib",
-			"name": "Libvio(爬虫)",
-			"type": 3,
-			"api": "csp_Lib",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Lezhu",
-			"name": "乐猪(爬虫)",
-			"api": "csp_Lezhu",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
-			"key": "哔滴影视",
-			"name": "哔滴影视(爬虫)",
-			"type": 3,
-			"api": "csp_Bdys01",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "TT",
-			"name": "TT(爬虫)",
-			"api": "csp_AppTT",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		
-		{
-			"key": "剧荒",
-			"name": "剧荒(爬虫)",
-			"type": 3,
-			"api": "csp_Juhuang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "看视界",
-			"name": "看视界(爬虫)",
-			"type": 3,
-			"api": "csp_KanSJ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "厂长",
-			"name": "厂长(爬虫)",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "追剧喵",
-			"name": "追剧喵(爬虫)",
-			"type": 3,
-			"api": "csp_ZJMiao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "Bttoo",
-			"name": "Bttoo(爬虫)",
-			"api": "csp_Bttoo",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
-			"key": "Kuaikan",
-			"name": "快看(爬虫)",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "爱看",
-			"name": "爱看(爬虫)",
-			"type": 3,
-			"api": "csp_IKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
 		
 		{
 			"key": "csp_xbb_555电影",
@@ -181,7 +55,7 @@
                         "searchable":1,
                         "quickSearch":1,
                         "filterable":1,
-                        "ext":"https://gitcode.net/yjjyyxzhj/wuliao/-/raw/master/token.txt"
+                        "ext":"https://homeyjj.github.io/wuliao/token.json"
                },
                {
                          "key":"Upyunso",
@@ -191,7 +65,7 @@
                          "searchable":1,
                          "quickSearch":1,
                          "filterable":1,
-                         "ext":"https://gitcode.net/yjjyyxzhj/wuliao/-/raw/master/token.txt"
+                         "ext":"https://homeyjj.github.io/wuliao/token.json"
                  },
                  {
                          "key":"zhaozy",
@@ -202,7 +76,7 @@
                          "searchable":1,
                          "quickSearch":1,
                          "filterable":1,
-                         "ext":"https://gitcode.net/yjjyyxzhj/wuliao/-/raw/master/token.txt"
+                         "ext":"https://homeyjj.github.io/wuliao/token.json"
                },
                {
                       "key":"AliPS",
@@ -213,7 +87,7 @@
                       "searchable":1,
                       "quickSearch":1,
                       "filterable":1,
-                      "ext":"https://gitcode.net/yjjyyxzhj/wuliao/-/raw/master/token.txt"
+                      "ext":"https://homeyjj.github.io/wuliao/token.json"
               },
               {
                       "key":"csp_Yisou",
@@ -223,7 +97,7 @@
                       "searchable":1,
                       "quickSearch":1,
                       "filterable":0,
-                      "ext":"https://gitcode.net/yjjyyxzhj/wuliao/-/raw/master/token.txt"
+                      "ext":"https://homeyjj.github.io/wuliao/token.json"
                       
                 },
 
@@ -245,7 +119,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/yjjyyxzhj/wuliao/-/raw/master/token.txt"
+			"ext": "https://homeyjj.github.io/wuliao/token.json"
 		}
 	],
 	"lives": [{
