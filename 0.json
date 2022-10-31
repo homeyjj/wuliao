@@ -261,7 +261,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
         },
         {
             "key": "zhaozy",
@@ -271,7 +271,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
         },
         {
             "key": "AliPS",
@@ -281,7 +281,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
         },
         {
             "key": "Upyunso",
@@ -291,7 +291,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
         },
         {
             "key": "Yisou",
@@ -301,7 +301,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
         },
         {
             "key": "Voflix",
@@ -340,7 +340,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+            "ext": "https://raw.iqiq.io/homeyjj/wuliao/main/token.txt"
         }
     ],
        "lives":[
