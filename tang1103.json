@@ -209,7 +209,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://raw.fastgit.org/homeyjj/wuliao/main/token.txt"
     },
     {
       "key": "Lib",
@@ -259,7 +259,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://raw.fastgit.org/homeyjj/wuliao/main/token.txt"
     },
     {
       "key": "YiSo",
@@ -269,7 +269,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://raw.fastgit.org/homeyjj/wuliao/main/token.txt"
     },
     {
       "key": "AliPS",
@@ -279,7 +279,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://raw.fastgit.org/homeyjj/wuliao/main/token.txt"
     },
     {
       "key": "Zxzj",
@@ -299,7 +299,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "https://raw.fastgit.org/homeyjj/wuliao/main/token.txt"
     }
   ],
   "lives": [
