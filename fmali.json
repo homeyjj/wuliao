@@ -1,5 +1,5 @@
 {
-    "spider" : "https://raw.fastgit.org/homeyjj/wuliao/main/fongmiali.jar;md5;460ee32a20c159a8c25a0755d3a1fc19",
+    "spider" : "https://raw.iqiq.io/homeyjj/wuliao/main/fongmiali.jar;md5;460ee32a20c159a8c25a0755d3a1fc19",
     "wallpaper" : "http://刚刚.live/图",
     "lives" : [
             {
@@ -12,26 +12,6 @@
                 }]
         }],
     "sites" : [
-            {
-            "key" : "哔哩",
-            "name" : "哔哩",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "./bili.json"
-        },
-            {
-            "key" : "AList",
-            "name" : "AList",
-            "type" : 3,
-            "api" : "csp_AList",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "./alist.json"
-        },
             {
             "key" : "巴士",
             "name" : "巴士",
