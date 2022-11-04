@@ -1,5 +1,14 @@
 {
-  "sites": [
+  "sites": [ {
+      "key": "SP360",
+      "name": "SP360",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "9248c57eb22ace4a3431fbd1a979465f"
+    },
     {
       "key": "Zjdr",
       "name": "追剧达人",
@@ -10,16 +19,7 @@
       "filterable": "1",
       "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
     },
-     {
-      "key": "SP360",
-      "name": "SP360",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "9248c57eb22ace4a3431fbd1a979465f"
-    },
+    
     {
       "key": "Yanet",
       "name": "鸭奶飞",
