@@ -187,18 +187,7 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "6deed4548c44b18d268a5d828f04d86e"
-    },
-    
-    {
-      "key": "Gitcafe",
-      "name": "纸条",
-      "type": "3",
-      "api": "csp_Gitcafe",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-    },
+    },     
     {
       "key": "Lib",
       "name": "Libvio",
@@ -240,6 +229,16 @@
       "ext": "13441dbe4dee12dafffb93c56ec3e9e4"
     },
     {
+      "key": "Gitcafe",
+      "name": "纸条",
+      "type": "3",
+      "api": "csp_Gitcafe",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "https://raw.kgithub.com/homeyjj/wuliao/main/token.txt"
+    },                
+    {
       "key": "Zhaozy",
       "name": "资源",
       "type": "3",
@@ -247,7 +246,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://raw.kgithub.com/homeyjj/wuliao/main/token.txt"
     },
     {
       "key": "YiSo",
@@ -257,7 +256,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://raw.kgithub.com/homeyjj/wuliao/main/token.txt"
     },
     {
       "key": "AliPS",
@@ -267,7 +266,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://raw.kgithub.com/homeyjj/wuliao/main/token.txt"
     },
     {
       "key": "Zxzj",
@@ -287,7 +286,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext": "https://raw.kgithub.com/homeyjj/wuliao/main/token.txt"
     }
   ],
   "lives": [
