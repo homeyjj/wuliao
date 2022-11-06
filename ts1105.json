@@ -1,5 +1,6 @@
 {
-	"sites": [{
+	"sites": [
+		{
 			"key": "SP360",
 			"name": "SP360",
 			"type": "3",
