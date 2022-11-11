@@ -262,7 +262,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "token;desc"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;desc"
     },
     {
       "key": "找资源",
@@ -272,7 +272,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "upyunsou",
@@ -283,7 +284,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext": "token;asc"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;asc"
     },
     {
       "key": "yisou",
@@ -293,7 +294,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "AliPS",
@@ -303,7 +305,8 @@
       "searchable": 1,
       "playerType": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
     },
     {
       "key": "push_agent",
@@ -314,7 +317,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "token;desc"
+      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;desc"
     }
   ],
   "parses": [
