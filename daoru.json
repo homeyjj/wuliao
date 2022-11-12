@@ -1,5 +1,5 @@
 {
-	"spider": "https://homeyjj.github.io/wuliao/jar/daoru98.jar",
+	"spider": "https://homeyjj.github.io/wuliao/jar/daoru98.jar;md5;95c3337025978dd4112095bad0527d66",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
