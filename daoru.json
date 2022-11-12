@@ -1,5 +1,5 @@
 {
-	"spider": "https://homeyjj.github.io/wuliao/jar/zaidaoru.jar",
+	"spider": "https://homeyjj.github.io/wuliao/jar/zaidaoru.jar;md5;2f33f431777706cba039cd386f07b60e",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -150,16 +150,7 @@
 				}
 			}
 		},
-		{
-			"key": "csp_XBPQ_DOUYIN",
-			"name": "短视频(XBPQ)",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "{\n\"分类url\": \"http://www.sharenice.net/{cateId}?page={catePg}\",\n\"分类\": \"抖音$douyin#快手$kuaishou#微视$weishi#场库$changku#美拍$meipai#秒拍$miaopai#全民$quanmin#梨$lishipin#好兔$haotu#开眼$kaiyan\",\n\"链接\": \"http://www.sharenice.net&&\\\"\",\n\"直接播放\": \"1\"\n}"
-		},
+		
 		{
 			"key": "csp_xb_zxzj",
 			"name": "在线之家(XBiu)",
