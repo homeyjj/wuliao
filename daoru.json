@@ -259,14 +259,7 @@
 			"ext": "https://kebedd69.github.io/TVbox-interface/token.json;desc"
 		},
 		{
-			"key": "找资源",
-			"name": "找资源",
-			"type": 3,
-			"api": "csp_Zhaozy",
-			"searchable": 1,
-			"playerType": 1,
-			"quickSearch": 1,
-			"filterable": 1,
+			{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 			"ext": "https://kebedd69.github.io/TVbox-interface/token.json"
 		},
 		{
@@ -281,14 +274,7 @@
 			"ext": "https://kebedd69.github.io/TVbox-interface/token.json;asc"
 		},
 		{
-			"key": "yisou",
-			"name": "宜搜",
-			"type": 3,
-			"api": "csp_Yisou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"playerType": 1,
-			"filterable": 0,
+			{"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 			"ext": "https://kebedd69.github.io/TVbox-interface/token.json"
 		},
 		{
