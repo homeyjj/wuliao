@@ -262,7 +262,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;desc"
+http://ali.饭太硬.ml/tok;desc"
     },
     {
       "key": "找资源",
@@ -273,7 +273,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext":"http://ali.饭太硬.ml/tok"
     },
     {
       "key": "upyunsou",
@@ -284,7 +284,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;asc"
+      "ext": "http://ali.饭太硬.ml/tok;asc"
     },
     {
       "key": "yisou",
@@ -295,7 +295,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext":"http://ali.饭太硬.ml/tok"
     },
     {
       "key": "AliPS",
@@ -306,7 +306,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://kebedd69.github.io/TVbox-interface/token.json"
+      "ext":"http://ali.饭太硬.ml/tok"
     },
     {
       "key": "push_agent",
@@ -317,7 +317,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "https://kebedd69.github.io/TVbox-interface/token.json;desc"
+      "ext": "http://ali.饭太硬.ml/tok;desc"
     }
   ],
   "parses": [
