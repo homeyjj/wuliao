@@ -262,7 +262,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-"ext":"http://ali.饭太硬.ml/tok;desc"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json;desc"
     },
     {
       "key": "找资源",
@@ -273,7 +273,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://ali.饭太硬.ml/tok"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "upyunsou",
@@ -284,7 +284,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok;asc"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json;asc"
     },
     {
       "key": "yisou",
@@ -295,7 +295,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext":"http://ali.饭太硬.ml/tok"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "AliPS",
@@ -306,7 +306,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://ali.饭太硬.ml/tok"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
     },
     {
       "key": "push_agent",
@@ -317,7 +317,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok;desc"
+      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json;desc"
     }
   ],
   "parses": [
