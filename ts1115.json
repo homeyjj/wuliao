@@ -21,15 +21,15 @@
 {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
 {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
 {"key":"SP360","name":"SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-{"key":"Gitcafe","name":"小纸条","type":"3","api":"csp_GitCafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"40e3352d9f3d492c97b790851b408641","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
+{"key":"Gitcafe","name":"小纸条","type":"3","api":"csp_GitCafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"c3895f91c81741959c22feb5fe3a5def","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
 {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
 {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
 {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-{"key":"FindZY","name":"找资源","type":"3","api":"csp_FindZY","searchable":"1","quickSearch":"1","filterable":"1","ext":"40e3352d9f3d492c97b790851b408641","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
-{"key":"Yisou","name":"易搜","type":"3","api":"csp_Yisou","searchable":"1","quickSearch":"1","filterable":"1","ext":"40e3352d9f3d492c97b790851b408641","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
-{"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"40e3352d9f3d492c97b790851b408641","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
+{"key":"FindZY","name":"找资源","type":"3","api":"csp_FindZY","searchable":"1","quickSearch":"1","filterable":"1","ext":"c3895f91c81741959c22feb5fe3a5def","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
+{"key":"Yisou","name":"易搜","type":"3","api":"csp_Yisou","searchable":"1","quickSearch":"1","filterable":"1","ext":"c3895f91c81741959c22feb5fe3a5def","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
+{"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"c3895f91c81741959c22feb5fe3a5def","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"},
 {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-{"key":"push_agent","name":"推送","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"40e3352d9f3d492c97b790851b408641","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"}
+{"key":"push_agent","name":"推送","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"c3895f91c81741959c22feb5fe3a5def","jar":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/qj1121.jar"}
   ],
 
   "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
