@@ -369,6 +369,14 @@
       "url": "Demo"
     },
     {
+		"name": "Q1解析",
+		"type": 1,
+		"url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
+		"header": {
+			"User-Agent": "Mozilla/5.0"
+		}
+	},
+    {
       "name": "xmflv",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
