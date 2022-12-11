@@ -663,6 +663,14 @@
 			"url": "Demo"
 		},
 		{
+		        "name": "Q1解析",
+		        "type": 1,
+		        "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
+		        "header": {
+			"User-Agent": "Mozilla/5.0"
+		          }
+	        },  
+		{
 			"name": "全部",
 			"type": 1,
 			"url": "https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=",
