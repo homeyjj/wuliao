@@ -347,12 +347,28 @@
         {
             "name": "Q1",
             "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url="
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
         },
         {
             "name": "Q1官解",
             "type": 1,
             "url": "https://parse.ikunfk.cc/parse/sign/20221230?url="
+        },
+        {
+            "name": "刚刚走过",
+            "type": 1,
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "云星解析",
+            "type": 1,
+            "url": "https://chaloli.cn/api/?key=454af70ae4c2f8369527a16413ed27ba&url=",
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
         },
         {
             "name": "Bt5v",
