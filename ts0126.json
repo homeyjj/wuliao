@@ -36,45 +36,7 @@
 
   "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
 
-  "parses": [ {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Q1解析",
-            "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "Q1官解",
-            "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/20230117?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "星辰云解析",
-            "type": 1,
-            "url": "https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
+  "parses": [ 
     
   {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="}
     ],
