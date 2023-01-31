@@ -1,5 +1,5 @@
-{                     
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/xo.jar;md5;7752af3c1172ecb63c2d077fd017d0c3",
+{
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/xo.jar;md5;4bd2275690262e2b338920201a674539",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "lives": [
         {
@@ -45,7 +45,16 @@
             "filterable": 0,
             "ext": "http://101.34.67.237/txt/json/alist.json"
         },
-       
+        {
+            "key": "csp_Bili",
+            "name": "🅱哔哩合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://cdn.饭太硬.ga/x/json/bilibili.json"
+        },
         {
             "key": "csp_Biliych",
             "name": "🅱看演唱会",
@@ -66,14 +75,23 @@
             "filterable": 1
         },
         {
-            "key": "AppTT",
+            "key": "csp_AppTT",
             "name": "🐰图图┃SP",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "💢布雷┃SP",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "Tian",
@@ -316,14 +334,14 @@
             "filterable": 1
         },
         {
-            "key": "csp_AppTT",
+            "key": "AppTT",
             "name": "🐰兔兔┃SP",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.89:7788"
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "csp_Lezhu",
@@ -339,15 +357,6 @@
             "name": "5️⃣️555┃SP",
             "type": 3,
             "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_BuLei",
-            "name": "💢布雷┃SP",
-            "type": 3,
-            "api": "csp_BuLei",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -387,26 +396,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        },      
         {
-            "key": "csp_Yj1211",
-            "name": "📽️网红直播┃SP",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },   
-        {
-            "key": "csp_XYQBiu_虎牙直播",
-            "name": "🐯虎牙直播",
+            "key": "csp_XYQBiu_310直播",
+            "name": "⚽310看球",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/虎牙直播.json"
-        },
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/310直播.json"
+        },   
         {
             "key": "csp_xBPQ_聚短视频",
             "name": "📽️聚短视频",
@@ -516,7 +516,35 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://cdn.饭太硬.ga/x/xbpq/莫扎兔.json"
-        }      
+        },
+        {
+            "key": "csp_If101",
+            "name": "🛫If101┃墙外",
+            "type": 3,
+            "api": "csp_If101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "🛫泥视频┃墙外",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_trj",
+            "name": "🛫唐人街┃墙外",
+            "type": 3,
+            "api": "csp_Tangrenjie",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+        
     ],
     "parses": [
         {
