@@ -1,18 +1,11 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/fm.jar;md5;8329684ff36b27bdf5970adf458e8d1e",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "直播",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "測試",
       "type": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
       "logo": "http://epg.51zmt.top:8000/{logo}"
     }
@@ -25,16 +18,18 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "switchable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "哔哩",
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
+      "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "switchable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
     {
       "key": "泥巴",
@@ -42,7 +37,8 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "switchable": 1
     },
     {
       "key": "快播",
@@ -51,6 +47,7 @@
       "api": "https://www.kuaibozy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
+      "switchable": 1,
       "categories": [
         "动漫",
         "国产剧",
@@ -76,6 +73,7 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
+      "switchable": 1,
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -98,7 +96,8 @@
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "switchable": 1
     },
     {
       "key": "巴士",
@@ -106,7 +105,8 @@
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "switchable": 1
     },
     {
       "key": "異界",
@@ -114,7 +114,8 @@
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "switchable": 1
     },
     {
       "key": "紙條",
@@ -123,7 +124,8 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "switchable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "易搜",
@@ -132,7 +134,8 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "switchable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "盤搜",
@@ -141,7 +144,8 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "switchable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "UP雲搜",
@@ -150,7 +154,8 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "switchable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "找資源",
@@ -159,7 +164,18 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "switchable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
+    },
+    {
+      "key": "Live",
+      "name": "直播",
+      "type": 3,
+      "api": "csp_Live",
+      "searchable": 0,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "2000"
     },
     {
       "key": "push_agent",
@@ -168,7 +184,8 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "switchable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ]
 }
