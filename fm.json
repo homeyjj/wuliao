@@ -12,63 +12,6 @@
   ],
   "sites": [
     {
-            "key": "csp_SP360",
-            "name": "📺360┃SP",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-    {
-            "key": "csp_kuaikan",
-            "name": "👀快看┃SP",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "🐰图图┃SP",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
-        },
-        {
-            "key": "csp_BuLei",
-            "name": "💢布雷┃SP",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-    {
-            "key": "AppTT",
-            "name": "图图",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
-        },
-    {
-            "key": "csp_Xinsj",
-            "name": "🐼新视觉┃SP",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy2.com"
-        },
-    {
       "key": "AList",
       "name": "AList",
       "type": 3,
