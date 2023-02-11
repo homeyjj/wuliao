@@ -49,6 +49,16 @@
             "filterable": 1
         },
     {
+            "key": "AppTT",
+            "name": "图图",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
+        },
+    {
             "key": "csp_Xinsj",
             "name": "🐼新视觉┃SP",
             "type": 3,
