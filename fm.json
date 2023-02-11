@@ -12,6 +12,53 @@
   ],
   "sites": [
     {
+            "key": "csp_SP360",
+            "name": "📺360┃SP",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    {
+            "key": "csp_kuaikan",
+            "name": "👀快看┃SP",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "🐰图图┃SP",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "💢布雷┃SP",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    {
+            "key": "csp_Xinsj",
+            "name": "🐼新视觉┃SP",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy2.com"
+        },
+    {
       "key": "AList",
       "name": "AList",
       "type": 3,
@@ -26,20 +73,12 @@
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "filterable": 1,
+      "searchable": 0,
+      "filterable": 0,
       "switchable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "filterable": 1,
-      "switchable": 1
-    },
+   
     {
       "key": "快播",
       "name": "快播",
