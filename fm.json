@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/fm.jar;md5;384628eab024a2a40a57835d2f0684d8",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/fm.jar;md5;008dbb5b68b754af12a2337810f78dc0",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -18,7 +18,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
@@ -26,12 +26,20 @@
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "filterable": 0,
-      "switchable": 0,
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
-   
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
     {
       "key": "快播",
       "name": "快播",
@@ -39,7 +47,7 @@
       "api": "https://www.kuaibozy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 1,
+      "changeable": 1,
       "categories": [
         "动漫",
         "国产剧",
@@ -65,7 +73,7 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 1,
+      "changeable": 1,
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -89,7 +97,7 @@
       "api": "csp_Ying",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 1
+      "changeable": 1
     },
     {
       "key": "巴士",
@@ -98,7 +106,7 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 1
+      "changeable": 1
     },
     {
       "key": "異界",
@@ -107,7 +115,7 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 1
+      "changeable": 1
     },
     {
       "key": "紙條",
@@ -116,7 +124,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -126,7 +134,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -136,7 +144,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -146,7 +154,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
@@ -156,7 +164,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
     },
     {
@@ -166,7 +174,7 @@
       "api": "csp_Live",
       "searchable": 0,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "2000"
     },
     {
@@ -176,7 +184,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "changeable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     }
   ]
