@@ -41,7 +41,9 @@
 
   "parses": [
     
-    {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="}
+   {"name":"不","type":1,"url":"http://jiexi.parses.repl.co/api.php?url="},
+    
+   {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="}
     ],
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8"],
