@@ -1,14 +1,14 @@
 {
     "sites":[
         {
-	       "key": "js豆瓣",
-	       "name": "🅱豆瓣",
-	       "type": 3,
-	       "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-	       "ext": "http://ftyyy.tk/JS/js/drpy.js",
-	       "searchable": 0,
-	       "quickSearch": 0,
-	       "filterable": 1
+	     "key": "js豆瓣",
+	     "name": "🅱豆瓣",
+	     "type": 3,
+	     "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+	     "ext": "http://ftyyy.tk/JS/js/drpy.js",
+	     "searchable": 0,
+	     "quickSearch": 0,
+	     "filterable": 1
        },
         {
             "key": "Kuaikan",
