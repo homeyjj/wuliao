@@ -21,7 +21,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "YiSo",
@@ -32,7 +32,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "csp_kuaikan",
@@ -390,7 +390,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/token$$$自己去注册$$$qq112233"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
         },
         {
             "key": "PanSou",
@@ -401,7 +401,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "UpYun",
@@ -412,7 +412,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
         {
             "key": "push_agent",
@@ -422,7 +422,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/token"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         },
          {
             "key": "csp_Alist1",
