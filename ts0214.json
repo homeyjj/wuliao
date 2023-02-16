@@ -1,15 +1,15 @@
 {
     "sites":[
-        {
-	     "key": "js豆瓣",
-	     "name": "🅱豆瓣",
-	     "type": 3,
-	     "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-	     "ext": "http://ftyyy.tk/JS/js/drpy.js",
-	     "searchable": 0,
-	     "quickSearch": 0,
-	     "filterable": 1
-       },
+         {
+            "key": "SP360",
+            "name": "SP360",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "9248c57eb22ace4a3431fbd1a979465f"
+        },
         {
             "key": "Kuaikan",
             "name": "快看",
@@ -29,16 +29,6 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
-        },
-        {
-            "key": "SP360",
-            "name": "SP360",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "9248c57eb22ace4a3431fbd1a979465f"
         },
         {
             "key": "世界杯",
