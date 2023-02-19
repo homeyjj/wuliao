@@ -290,17 +290,12 @@
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
         }
     ],
-    "lives": [
+   "lives": [
         {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"
-                    ]
-                }
-            ]
+            "name": "live",
+            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+            "type": 0,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
     
