@@ -151,6 +151,14 @@
             "ext": "b04b15448ad5bd4312f1fa1fb9aa9b1b"
         },
         {
+            "key": "drpy_js_有声小说吧",
+            "name": "📻┃有声┃小说",
+            "type": 3,
+            "api": "http://w.g9.pub:66/381203888/lib/drpy.min.js",
+            "ext": "http://w.g9.pub:66/381203888/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
+            "jar": "http://我不是.肥猫.love:63/Jar/JS.jar;md5;74A24673CC1587FA87EC2D1F43BFA4CB"
+        },
+        {
             "key": "Tbook",
             "name": "听书网",
             "type": "3",
