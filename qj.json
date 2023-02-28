@@ -15,6 +15,16 @@
         }
     ],
     "sites": [
+         {
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
         {
             "key": "YQK_spider",
             "name": "一起看TV",
@@ -158,16 +168,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "360_spider",
-            "name": "360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
         },
         {
             "key": "小苹果",
