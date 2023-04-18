@@ -1,5 +1,4 @@
-{
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a",
+ {     "spider":"https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
@@ -13,12 +12,22 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
     },
     {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+    },
+    {
       "key": "哔哩",
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "filterable": 1,
+      "searchable": 0,
+      "filterable": 0,
       "changeable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
@@ -75,8 +84,16 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/t.txt"
+      "changeable": 0
+    },
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "易搜",
@@ -85,8 +102,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/t.txt"
+      "changeable": 0
     },
     {
       "key": "盤搜",
@@ -95,8 +111,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/t.txt"
+      "changeable": 0
     },
     {
       "key": "UP雲搜",
@@ -105,8 +120,17 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/t.txt"
+      "ext": "影視天下第一$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
@@ -115,8 +139,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "changeable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/homeyjj/wuliao/main/t.txt"
+      "changeable": 0
     }
   ]
 }
